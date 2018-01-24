@@ -1,7 +1,7 @@
 #electiondata
 ### Haziran ve Kasım 2015 Türkiye Genel Seçimleri sandık sonuçları
 
-[Haziran verisi](https://drive.google.com/file/d/0B9xGOkFUV2MAbVc2ZWktUE1SVVk/view?usp=sharing …) [@sevketzaim](https://twitter.com/sevketzaim)'in, [Kasım verisi](https://github.com/oztalha/2015-11-01-Elections-Turkey/blob/master/data/ysk.csv) de [@tozCSS](https://twitter.com/tozCSS)'in YSK'nın sitesinden çektiği veriler. Veri setlerinin ilk halini linklerden edinebilirsiniz.
+[Haziran verisi](https://drive.google.com/file/d/0B9xGOkFUV2MAbVc2ZWktUE1SVVk/view?usp=sharing) [@sevketzaim](https://twitter.com/sevketzaim)'in, [Kasım verisi](https://github.com/oztalha/2015-11-01-Elections-Turkey/blob/master/data/ysk.csv) de [@tozCSS](https://twitter.com/tozCSS)'in YSK'nın sitesinden çektiği veriler. Veri setlerinin ilk halini linklerden edinebilirsiniz.
 
 Farklı formattaki iki veri setini rahat karşılaştırabilmek için birkaç değişiklik yaptım:
 
